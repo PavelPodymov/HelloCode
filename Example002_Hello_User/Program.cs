@@ -7,7 +7,9 @@
 
 
 //  Выводит текст в одну строку
+
 Console.Write("Введите ваше имя: ");
-string username = Console.ReadLine();
+// string username = Console.ReadLine();
+Console.Write("Введите ваше имя: ");
 Console.Write("Привет, ");
-Console.Write(username);
+// Console.Write(username);
